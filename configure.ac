@@ -1,4 +1,4 @@
-AC_INIT([main],[0.0.1])
+AC_INIT([rongdemo],[0.0.1])
 AC_CONFIG_SRCDIR("main.c")
 AC_CONFIG_AUX_DIR([build-aux])
 AM_INIT_AUTOMAKE([1.11 -Wall -Werror])

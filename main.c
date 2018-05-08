@@ -1,5 +1,6 @@
 #include <stdio.h>
+#include "app.h"
 int main(){
-    printf("%s","dalongdemo");
+    printusername("dalongdemo");
     return  0;
 }

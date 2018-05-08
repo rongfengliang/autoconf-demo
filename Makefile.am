@@ -1,2 +1,3 @@
-bin_PROGRAMS = main
-main_source =main.c
+bin_PROGRAMS = rongdemo
+rongdemo_SOURCES =main.c app.c
+include_HEADERS= app.h
